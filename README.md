@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mathz1307, an Informatics Engineering Student from Portugal
 - 👀 I’m interested in coding, gaming and Linux
-- 🌱 I’m currently learning C++ and JavaScript
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: message me on Discord (mathz__)
 - ⚡ Fun fact: I have achieved top 100 PT in osu!
 
