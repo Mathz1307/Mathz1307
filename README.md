@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mathz1307, an Informatics Engineering Student from Portugal
+- 👋 Hi, I’m Mateus, an Informatics Engineering Student from Portugal
 - 👀 I’m interested in coding, gaming and Linux
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: message me on Discord (mathz__)
