@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Mateus, an Informatics Engineering Student from Portugal
-- 👀 I’m interested in coding, gaming and Linux
-- 🌱 I’m currently learning C++
+Informatics Engineering Student from Portugal
+- 👀 I’m interested in coding and gaming
 - 📫 How to reach me: message me on Discord (mathz__)
 
 <!---
